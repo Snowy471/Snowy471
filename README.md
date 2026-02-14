@@ -27,13 +27,13 @@
 
 ## 📚 Repository Structure
 
-├── 📁 GRC/                    ## Governance, Risk & Compliance <br>
-├── 📁 Detection-Engineering/  ## Detection rules and methodologies  <br>
-├── 📁 Threat-Hunting/         ## Hunting queries and techniques <br>
-├── 📁 Automation/             ## Security automation scripts <br>
-├── 📁 Bug-Bounty-Write-Ups/   ## Security automation scripts <br>
-├── 📁 CTF-Write-Ups/          ## Security automation scripts<br>
-└── 📁 Research/               ## Security research and findings
+├── 📁 GRC/                     ## Governance, Risk & Compliance <br>
+├── 📁 Detection-Engineering/   ## Detection rules and methodologies  <br>
+├── 📁 Threat-Hunting/          ## Hunting queries and techniques <br>
+├── 📁 Automation/              ## Security automation scripts <br>
+├── 📁 Bug-Bounty-Write-Ups/    ## Security automation scripts <br>
+├── 📁 CTF-Write-Ups/           ## Security automation scripts<br>
+└── 📁 Research/                ## Security research and findings
 
 ---
 
