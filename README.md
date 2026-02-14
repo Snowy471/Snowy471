@@ -58,7 +58,6 @@
 - **Detection Engineering**: Building robust detection rules for multi-tenant environments
 - **Threat Hunting**: Advanced persistent threat identification in hybrid cloud environments  
 - **Automation**: API-driven security orchestration and incident response
-- **Compliance**: Framework implementation and audit preparation
 - **Bug Bounty**: Web application security research on HackerOne
 
 ---
