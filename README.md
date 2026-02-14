@@ -8,7 +8,7 @@
 
 ## 🔐 About Me
 
-**Cybersecurity Engineer** with 2 years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across **150+ client environments** with over **5,000 endpoints**.
+**Cybersecurity Engineer** with 2 years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across a wide range of environments.
 
 🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **LINK TO REPO**.
 
@@ -18,7 +18,7 @@
 
 - 🔍 **SOC Operations**: End-to-end case management from detection to resolution
 - 🎯 **Threat Hunting**: Proactive threat identification using advanced query languages
-- 📊 **Compliance**: SOC2, CMMC, NIST 800-171, PCI DSS, and HIPAA assessments
+- 📊 **Compliance**: SOC2, CMMC, NIST 800-171, PCI DSS, and HIPAA guidance
 - 🤖 **Automation**: Security tool development and process automation
 - 🐛 **Bug Bounty**: Web application and API security research
 - 📝 **Documentation**: Technical reporting and security policy creation
@@ -33,15 +33,15 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### **Query Languages**
-- **KQL** (Kusto Query Language)
-- **ES|QL** (Elasticsearch Query Language) 
-- **Query DSL** (Domain Specific Language)
+- **KQL**
+- **ES|QL**
+- **Query DSL**
 
 ### **Security Tools & Platforms**
 - **SIEM/SOAR**: ELK Stack, Microsoft Sentinel
 - **EDR/XDR**: SentinelOne, Microsoft Defender, Huntress
-- **Analysis**: Sysinternals, Event Viewer, Log Analysis
-- **Cloud**: Azure AD, Entra ID, Microsoft Purview
+- **Wndows Endpoint Analysis**: Sysinternals, Event Viewer, Log Analysis
+- **Cloud**: Azure AD, AWS
 - **Management**: ConnectWise RMM/PSA
 
 ---
