@@ -25,36 +25,15 @@
 
 ---
 
-## 🔧 Technical Arsenal
-
-### **Languages & Scripting**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### **Query Languages**
-- **KQL**
-- **ES|QL**
-- **Query DSL**
-
-### **Security Tools & Platforms**
-- **SIEM/SOAR**: ELK Stack, Microsoft Sentinel
-- **EDR/XDR**: SentinelOne, Microsoft Defender, Huntress
-- **Wndows Endpoint Analysis**: Sysinternals, Event Viewer, Log Analysis
-- **Cloud**: Azure AD, AWS
-- **Management**: ConnectWise RMM/PSA
-
----
-
 ## 📚 Repository Structure
 
-```
 ├── 📁 GRC/                    # Governance, Risk & Compliance
 ├── 📁 Detection-Engineering/  # Detection rules and methodologies  
 ├── 📁 Threat-Hunting/         # Hunting queries and techniques
 ├── 📁 Automation/             # Security automation scripts
+├── 📁 Bug-Bounty-Write-Ups/   # Security automation scripts
+├── 📁 CTF-Write-Ups/          # Security automation scripts
 └── 📁 Research/               # Security research and findings
-```
 
 ---
 
@@ -68,9 +47,9 @@
 - 🔵 **BTL1** - Security Blue Team (Jun 2025)
 - 🔴 **PenTest+** - CompTIA (Feb 2025)
 
-### **Education**
-- 🎓 **MS Cybersecurity & Information Assurance** - WGU (Mar 2026)
-- 🎓 **BS Cybersecurity & Information Assurance** - WGU (Mar 2025)
+### **In Progress Certifications**
+- 🔴 **OSWE** - OFFSEC
+- 🛡️ **SOC100** - Level Effect
 
 ---
 
