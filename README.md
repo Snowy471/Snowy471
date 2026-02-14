@@ -51,9 +51,9 @@
 ```
 ├── 📁 GRC/                    # Governance, Risk & Compliance
 ├── 📁 Detection-Engineering/  # Detection rules and methodologies  
-├── 📁 Threat-Hunting/        # Hunting queries and techniques
-├── 📁 Automation/            # Security automation scripts
-└── 📁 Research/              # Security research and findings
+├── 📁 Threat-Hunting/         # Hunting queries and techniques
+├── 📁 Automation/             # Security automation scripts
+└── 📁 Research/               # Security research and findings
 ```
 
 ---
