@@ -8,9 +8,9 @@
 
 ## 🔐 About Me
 
-I'm a **Cybersecurity Engineer** with 2+ years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across **150+ client environments** with over **5,000 endpoints**.
+**Cybersecurity Engineer** with 2 years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across **150+ client environments** with over **5,000 endpoints**.
 
-🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies.
+🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **LINK TO REPO**.
 
 ---
 
