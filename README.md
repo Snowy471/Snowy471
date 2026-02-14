@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <i>🔒 Securing digital environments, one detection at a time</i>
+  <i>:boom: Ruining Hackers' Days :boom:</i>
 </div>
 
 ---
