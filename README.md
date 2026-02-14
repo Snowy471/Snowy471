@@ -10,7 +10,7 @@
 
 **Cybersecurity Engineer** with 2 years of experience specializing in **detection engineering**, **threat hunting**, and **compliance frameworks** (CIS, NIST 800-171, SOC2). Currently working at an MSP where I manage security operations across a wide range of environments.
 
-🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **LINK TO REPO**.
+🎯 **Notable Achievement**: Reduced business email compromise (BEC) investigation time by **75%** through automation and improved detection methodologies **[Automation-Repo](https://github.com/Snowy471/tree/main/Automation)**.
 
 ---
 
