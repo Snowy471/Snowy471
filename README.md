@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <i>:boom: Ruining Hackers' Days :boom:</i>
+  <i>:boom: Probably out wrecking hackers. :boom:</i>
 </div>
 
 ---
