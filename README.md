@@ -27,13 +27,13 @@
 
 ## 📚 Repository Structure
 
-├── 📁 GRC/ ----------------------- # Governance, Risk & Compliance <br>
-├── 📁 Detection-Engineering/ --- # Detection rules and methodologies  <br>
-├── 📁 Threat-Hunting/ ----------- # Hunting queries and techniques <br>
-├── 📁 Automation/ --------------- # Security automation scripts <br>
-├── 📁 Bug-Bounty-Write-Ups/ --- # Security automation scripts <br>
-├── 📁 CTF-Write-Ups/ ------------ # Security automation scripts<br>
-└── 📁 Research/ ------------------ # Security research and findings
+├── 📁 [GRC](https://github.com/Snowy471/GRC) - Governance, Risk & Compliance
+├── 📁 [Detection-Engineering](https://github.com/Snowy471/Detection-Engineering) - Detection rules and methodologies
+├── 📁 [Threat-Hunting](https://github.com/Snowy471/Threat-Hunting) - Hunting queries and techniques
+├── 📁 [Automation](https://github.com/Snowy471/Automation) - Security automation scripts
+├── 📁 [Bug-Bounty-Write-Ups](https://github.com/Snowy471/Bug-Bounty-Write-Ups) - Bug bounty findings
+├── 📁 [CTF-Write-Ups](https://github.com/Snowy471/CTF-Write-Ups) - Capture the flag solutions
+└── 📁 [Research](https://github.com/Snowy471/Research) - Security research and findings
 
 ---
 
