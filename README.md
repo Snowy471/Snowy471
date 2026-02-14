@@ -105,4 +105,4 @@
 
 ---
 
-This README provides a comprehensive overview of my cybersecurity journey. Feel free to explore the individual directories above for detailed examples of my work in **GRC**, **Detection Engineering**, **Threat Hunting**, and more!
+This README provides a comprehensive overview of my cybersecurity journey. Feel free to explore the individual directories above for detailed examples of my work in **GRC**, **Detection Engineering**, **Threat Hunting**, **Security Research**, and more!
