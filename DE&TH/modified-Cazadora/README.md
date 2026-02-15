@@ -1,6 +1,6 @@
 # SNOWY471
 
-> **Original Work:** This tool is based on [cazadora](https://github.com/HuskyHacks/cazadora) by [Matt Kiely](https://github.com/HuskyHacks). Licensed under MIT.
+> **Original Work:** This tool is based on [cazadora](https://github.com/HuskyHacks/cazadora) by [Matt Kiely](https://github.com/HuskyHacks). Licensed under original MIT, not relicensed.
 > 
 > **Modifications:** 
 > - Custom detection patterns for various sussy malicious M365 applications.

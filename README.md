@@ -37,7 +37,7 @@
 
 ---
 
-## 🏆 Certifications & Education
+## 🏆 Certifications
 
 ### **Current Certifications**
 - 🛡️ **Security+** - CompTIA (Aug 2024)
